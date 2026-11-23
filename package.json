@@ -1,0 +1,23 @@
+{
+  "name": "ai-test-framework",
+  "version": "1.0.0",
+  "description": "A learning project where I build a test automation framework step by step,\r starting manually and then adding AI-assisted testing with Claude.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devi123saha/ai-test-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/devi123saha/ai-test-framework/issues"
+  },
+  "homepage": "https://github.com/devi123saha/ai-test-framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@types/node": "^26.6.6"
+  }
+}
